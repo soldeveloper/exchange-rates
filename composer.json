@@ -1,0 +1,22 @@
+{
+	"name": "soldeveloper/exchange-rates",
+	"type": "library",
+	"description": "Currency conversion.",
+	"keywords": ["soldeveloper", "exchange-rates"],
+	"homepage": "https://github.com/soldeveloper/exchange-rates",
+	"license": "LGPLv3",
+	"authors": [
+		{"name": "SolDeveloper", "email": "sol.developer@gmail.com"}
+	],
+	"require": {
+		"php": ">=5.4"
+	},
+	"autoload": {
+		"psr-0": {"ExchangeRates": "src/"}
+	},
+	"extra": {
+		"branch-alias": {
+			"0.1": "0.1"
+		}
+	}
+}
