@@ -4,7 +4,7 @@
 	"description": "Currency conversion.",
 	"keywords": ["soldeveloper", "exchange-rates"],
 	"homepage": "https://github.com/soldeveloper/exchange-rates",
-	"license": "MIT",
+	"license": "LGPLv3",
 	"authors": [
 		{"name": "SolDeveloper", "email": "sol.developer@gmail.com"}
 	],

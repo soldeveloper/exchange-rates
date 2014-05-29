@@ -22,7 +22,12 @@ Installation
 				"source": {
 					"type": "git",
 						"url": "https://github.com/soldeveloper/exchange-rates.git",
-					"reference": "0.1"
+						"reference": "0.1"
+				},
+				"autoload": {
+					"psr-0": {
+						"ExchangeRates\\": "src/"
+					}
 				}
 			}
 		}
