@@ -11,16 +11,14 @@
 	"require": {
 		"php": ">=5.4"
 	},
-	"autoload": {
-		"psr-0": {"ExchangeRates": "src/"},
-		"classmap": [
-			"./"
-		]
-	},
 	"extra": {
 		"branch-alias": {
 			"0.1": "0.1"
 		}
+	},
+	"autoload": {
+		"psr-0": {
+			"ExchangeRates\\": "src/"
+		}
 	}
 }
-
