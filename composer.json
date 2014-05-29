@@ -18,7 +18,7 @@
 	},
 	"autoload": {
 		"psr-0": {
-			"ExchangeRates\\": "src/"
+			"ExchangeRates\\": "src/ExchangeRates/"
 		}
 	}
 }
